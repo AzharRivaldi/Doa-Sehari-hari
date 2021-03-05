@@ -9,6 +9,9 @@ https://rivaldi48.blogspot.com/2021/02/Tutorial-Membuat-Aplikasi-Doa-Sehari-hari
 
 <img src="https://1.bp.blogspot.com/-8EYuXHDYvGg/YCpjMJHNMGI/AAAAAAAAHv4/MVpIPbv3zWoxYOFrDWS9MZbWspRZQWPZgCLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BDoa%2BSehari-hari%2Bdengan%2BAndroid%2BStudio.png" data-canonical-src="https://1.bp.blogspot.com/-8EYuXHDYvGg/YCpjMJHNMGI/AAAAAAAAHv4/MVpIPbv3zWoxYOFrDWS9MZbWspRZQWPZgCLcBGAsYHQ/s1280/Tutorial%2BMembuat%2BAplikasi%2BDoa%2BSehari-hari%2Bdengan%2BAndroid%2BStudio.png" style="max-width:100%;">
 
+## 🗂 Click For Support Me :
+<a href="https://sociabuzz.com/azharrvldi_/donate"> 
+<img src="https://github.com/AzharRivaldi/AzharRivaldi/blob/master/Support%20Here.png" width="200" height="200"></a>
 
 ****If you use the Source Code, please make sure to credit and backlink to [Azhar Rivaldi](https://rivaldi48.blogspot.com/)***
 
